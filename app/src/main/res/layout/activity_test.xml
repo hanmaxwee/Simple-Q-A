@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TestActivity">
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="测测你的人格是哪种颜色？"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:drawableLeft="@drawable/id"
+        android:text="21人已测"
+        android:textColor="#BEBEBE"
+        android:textSize="10sp" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="328dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="我们对不同的颜色都有不一样的感受，比如白色代表着纯洁、粉红代表着平静、火红代表着爱情、深紫代表着神秘."
+            android:textColor="#8B8B7A"
+            android:textSize="15sp"
+            android:maxLines="100"/>
+    </ScrollView>
+    <Button
+        android:id="@+id/btn_test"
+        android:text="开始测试"
+        android:textSize="20dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_btn_1"/>
+</LinearLayout>

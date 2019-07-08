@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test>
+	<id>0</id>
+	<name>防御方式问卷</name>
+	<synopsis>防御方式问卷（DSQ）是由M. Bond（加拿大）于1983年编制的一种自评问卷。分别于1986年和1989年两次修订。现介绍的是最后一次修订的问卷。此问卷的目的是能收集较完整的防御机制资料，它适用于正常人及各种精神障碍。关于此量表的编制背景、理论根据、信度和效度问题，国内已有文献介绍，请参考应用。
+项目及评定标准
+DSQ共包括88个项目（见附表），包括比较广泛的防御行为：即从成熟的直到不成熟的。每个项目均采用1-9的九级评定方法，较为细致。具体介绍如下（此处与已发表论文略有不同）；
+1.完全反对；2.很反对；3.比较反对；4.稍微反对；5.既不反以对也不同意；6.稍微同意；7.比较同意；8.很同意；9.完全同意。
+评定注意事项
+表格由评定对象自行填写，在评定前，应先由工作人员把总的评分方法和要求向受试者交待清楚（即弄清指导语）。待把问题确实弄清后，才能作出独立的、不受任何影响的自我评定。对于文化程度低的自评者，可由工作人员逐项念给他听，并以中性的态度，不带任何偏向地把问题本身的意思告诉他，最好用铅笔填写，一般填写需30-40分钟。</synopsis>
+	<question>
+		<id>0</id>
+		<title> 1. 我因帮助他人而获得满足，如果不这样做，我就会变得情绪抑郁。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>6</score>
+		</option>
+	</question>
+	<question>
+		<id>1</id>
+		<title> 2. 人们常说我是个脾气暴躁的人。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>1</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>8</score>
+		</option>
+	</question>
+	<question>
+		<id>2</id>
+		<title> 3. 在我没有时间处理某个棘手的事情时，我可以把它搁置一边。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>8</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>1</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>3</score>
+		</option>
+	</question>
+	<question>
+		<id>3</id>
+		<title> 4. 人们总是不公平地对待我。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>8</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>8</score>
+		</option>
+	</question>
+	<question>
+		<id>4</id>
+		<title> 5. 我通过做一些积极的或创见性的事情来摆脱自己的焦虑不安，如绘画、做木工活等。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>7</score>
+		</option>
+	</question>
+	<question>
+		<id>5</id>
+		<title> 6. 偶尔，我把一些今天该做的事情推迟到明天再做。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>2</score>
+		</option>
+	</question>
+	<question>
+		<id>6</id>
+		<title> 7. 我不知道为什么会遇到相同的受挫情境。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>9</score>
+		</option>
+	</question>
+	<question>
+		<id>7</id>
+		<title> 8. 我能够相当轻松地嘲笑我自己。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>4</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>4</score>
+		</option>
+	</question>
+	<question>
+		<id>8</id>
+		<title> 9. 我受到挫折时，表现就象个孩子。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>1</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>1</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>1</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>1</score>
+		</option>
+	</question>
+	<question>
+		<id>9</id>
+		<title> 10. 在维护我的利益方面，我羞于与人计较。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>8</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>0</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>0</score>
+		</option>
+	</question>
+	<question>
+		<id>10</id>
+		<title> 11. 我比我认识人中的大多数都强。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>1</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>8</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>6</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>7</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>5</score>
+		</option>
+	</question>
+	<question>
+		<id>11</id>
+		<title> 12. 人们往往虐待我。 </title>
+		<option>
+			<id>0</id>
+			<text> 完全反对 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>1</id>
+			<text> 很反对 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>2</id>
+			<text> 比较反对 </text>
+			<score>5</score>
+		</option>
+		<option>
+			<id>3</id>
+			<text> 稍微反对 </text>
+			<score>3</score>
+		</option>
+		<option>
+			<id>4</id>
+			<text> 既不反以对也不同意 </text>
+			<score>8</score>
+		</option>
+		<option>
+			<id>5</id>
+			<text> 稍微同意 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>6</id>
+			<text> 比较同意 </text>
+			<score>9</score>
+		</option>
+		<option>
+			<id>7</id>
+			<text> 很同意 </text>
+			<score>2</score>
+		</option>
+		<option>
+			<id>8</id>
+			<text> 完全同意 </text>
+			<score>6</score>
+		</option>
+	</question>
+	<result>
+		<id>0</id>
+		<downLimit>0</downLimit>
+		<upperLimit>264</upperLimit>
+		<text>应激度较低</text>
+	</result>
+	<result>
+		<id>1</id>
+		<downLimit>265</downLimit>
+		<upperLimit>528</upperLimit>
+		<text>应激度一般</text>
+	</result>
+	<result>
+		<id>2</id>
+		<downLimit>529</downLimit>
+		<upperLimit>792</upperLimit>
+		<text>应激度较高</text>
+	</result>
+</test>
